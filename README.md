@@ -1,1 +1,3 @@
 # Automobile-Price-Prediction-Using-Regression-Analysis
+
+This repository contains a master's degree assignment focused on predicting the MSRP (manufacturer suggested retail price) of automobiles using a regression model. The dataset includes thousands of records, each representing a car with various attributes. The analysis starts with three visualizations: a histogram, a scatter plot, and a boxplot, to better understand the data distribution and relationships. The project involves training and evaluating two simple regression models, forward and backward variable selection methods to identify significant predictors, followed by the development of a final regression model. The final model is evaluated using testing data.
